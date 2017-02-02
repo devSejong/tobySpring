@@ -27,6 +27,7 @@ create table users (
 )
  ```
  
+ 
  ### 프로젝트 실행하기
  
  * `UserDao`파일의 `main`메서드를 실행합니다.
